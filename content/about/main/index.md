@@ -8,7 +8,7 @@ intro: |
   Adjusting to the demands of PhD and searing heat of Kharagpur. Here is how to catch up with me lately!
 show_outro: true
 outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
+  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/nithinm8013)!
 ---
 
 ** index doesn't contain a body, just front matter above.
