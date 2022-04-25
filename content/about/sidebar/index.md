@@ -4,8 +4,7 @@ author: "Nithin M"
 role: "Senior Research Fellow, Indian Institute of Technology Kharagpur"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: ""
-audio_link_label: "Say my name"
+audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Macroconmics

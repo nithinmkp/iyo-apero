@@ -78,14 +78,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/nithinmkp"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/nithinmkp/"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/infinite_sum/"
-  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/nithinnithu_m"
@@ -108,7 +100,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "List of publications"
-    url = "/project/"
+    url = "/publication/"
     weight = 3
   [[menu.header]]
     name = "Talks"
